@@ -1,2 +1,3 @@
-# champagen-quiz
-Quiz application made with java
+# Champagne Quiz
+
+Taste the champagne with basic quiz template made using java!!
